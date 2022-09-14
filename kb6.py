@@ -11,7 +11,7 @@ for customer in customers:
         "customer_email": customer.get('customer_email'),
         "customer_name": customer.get('customer_name'),
         "ma_khach_hang": customer.get('ma_khach_hang'),
-        "customer_phone": "0986651352",
+        "customer_phone": "+84986651352",
         "event_id": "event_52",
         "access_token": "maitrongjthuaanf"
     })

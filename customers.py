@@ -14,13 +14,27 @@ customers = [
         'contract_id': '8404',
         'ticket_id': '15314'
     },
-    # {
-    #     "customer_email": "hungevnhanoi@gmail.com",
-    #     "customer_name": "Nguyễn Việt Hùng",
-    #     'ma_khach_hang': 'PD22010146841',
-    #     'contract_id': '8401',
-    #     'ticket_id': '15311'
-    # },
+    {
+        "customer_email": "thaottt22@gmail.com",
+        "customer_name": "Trần Thị Thu Thảo",
+        'ma_khach_hang': 'PD22010146845',
+        'contract_id': '8405',
+        'ticket_id': '15315'
+    },
+    {
+        "customer_email": "minhtan.uk@gmail.com",
+        "customer_name": "Nguyễn Minh Tân",
+        'ma_khach_hang': 'PD22010146846',
+        'contract_id': '8406',
+        'ticket_id': '15316'
+    },
+    {
+        "customer_email": "hungevnhanoi@gmail.com",
+        "customer_name": "Nguyễn Việt Hùng",
+        'ma_khach_hang': 'PD22010146841',
+        'contract_id': '8401',
+        'ticket_id': '15311'
+    },
     # {
     #     "customer_email": "oanhlkb9@gmail.com",
     #     "customer_name": "Chị Oanh",
